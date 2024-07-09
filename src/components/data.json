@@ -1,0 +1,138 @@
+{
+	"navList": [
+		{
+			"name": "Home",
+			"link": "/"
+		},
+		{
+			"name": "Product",
+			"link": "/product"
+		},
+		{
+			"name": "About Us",
+			"link": "/about"
+		},
+		{
+			"name": "Services",
+			"link": "/services"
+		},
+		{
+			"name": "Listings",
+			"link": "/listings"
+		},
+		{
+			"name": "Contact Us",
+			"link": "/contact"
+		}
+	],
+	"cards": [
+		{
+			"name": "EcoElegance Gown",
+			"img": "/EcoElegance.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Grace Gown",
+			"img": "/Grace.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Blacknight Gown",
+			"img": "/Blacknight.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Denim Gown",
+			"img": "/Denim.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Flora Gown",
+			"img": "/Flora.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Cinda Gown",
+			"img": "/Cinda.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Blue Gliter Gown",
+			"img": "/Blue gliter.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Mini Gown",
+			"img": "/Mini.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Blue Prom Gown",
+			"img": "/Blue prom.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Black Roundneck Gown",
+			"img": "/Black roundneck.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Purple Roundneck Gown",
+			"img": "/purple roundNeck.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		},
+		{
+			"name": "Black Short Gown",
+			"img": "/black short.png",
+			"isLiked": false,
+			"price": "$50.00",
+			"newPrice": "$50.00",
+			"discount": "20%Off",
+			"rate": "4.5 "
+		}
+	]
+}

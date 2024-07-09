@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--pryColor: #251f73;
+}
+
+@layer utilities {
+	.text-balance {
+		text-wrap: balance;
+	}
+	.blue-face {
+		@apply bg-pry text-white;
+	}
+}
